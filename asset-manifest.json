@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "https://modern.js.org/modern-js-benchmark/static/css/main.915b710b.css",
-    "main.js": "https://modern.js.org/modern-js-benchmark/static/js/main.8a5e7dae.js",
+    "main.js": "https://modern.js.org/modern-js-benchmark/static/js/main.6f1c32f1.js",
     "runtime-main.js": "https://modern.js.org/modern-js-benchmark/static/js/runtime-main.a4485a0e.js",
-    "static/css/491.c3bce2d3.css": "https://modern.js.org/modern-js-benchmark/static/css/491.c3bce2d3.css",
-    "static/js/491.af24ce66.js": "https://modern.js.org/modern-js-benchmark/static/js/491.af24ce66.js",
+    "static/css/603.6f5fbc80.css": "https://modern.js.org/modern-js-benchmark/static/css/603.6f5fbc80.css",
+    "static/js/603.e7ade4d4.js": "https://modern.js.org/modern-js-benchmark/static/js/603.e7ade4d4.js",
     "favicon.ico": "https://modern.js.org/modern-js-benchmark/favicon.ico",
     "main/index.html": "https://modern.js.org/modern-js-benchmark/main/index.html",
     "main.915b710b.css.map": "https://modern.js.org/modern-js-benchmark/static/css/main.915b710b.css.map",
-    "main.8a5e7dae.js.map": "https://modern.js.org/modern-js-benchmark/static/js/main.8a5e7dae.js.map",
+    "main.6f1c32f1.js.map": "https://modern.js.org/modern-js-benchmark/static/js/main.6f1c32f1.js.map",
     "runtime-main.a4485a0e.js.map": "https://modern.js.org/modern-js-benchmark/static/js/runtime-main.a4485a0e.js.map",
-    "491.c3bce2d3.css.map": "https://modern.js.org/modern-js-benchmark/static/css/491.c3bce2d3.css.map",
-    "491.af24ce66.js.map": "https://modern.js.org/modern-js-benchmark/static/js/491.af24ce66.js.map"
+    "603.6f5fbc80.css.map": "https://modern.js.org/modern-js-benchmark/static/css/603.6f5fbc80.css.map",
+    "603.e7ade4d4.js.map": "https://modern.js.org/modern-js-benchmark/static/js/603.e7ade4d4.js.map"
   },
   "entrypoints": [
     "static/js/runtime-main.a4485a0e.js",
-    "static/css/491.c3bce2d3.css",
-    "static/js/491.af24ce66.js",
+    "static/css/603.6f5fbc80.css",
+    "static/js/603.e7ade4d4.js",
     "static/css/main.915b710b.css",
-    "static/js/main.8a5e7dae.js"
+    "static/js/main.6f1c32f1.js"
   ]
 }
