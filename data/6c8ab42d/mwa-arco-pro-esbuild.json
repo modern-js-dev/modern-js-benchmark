@@ -432,5 +432,9 @@
       "/static/js/runtime-main.js": 4209
     }
   },
-  "buildHotBootTime": 16241.073490000019
+  "buildHotBootTime": 16241.073490000019,
+  "yarnColdInstallTime": 133321.18222500003,
+  "yarnHotInstallTime": 2099.6019080000115,
+  "yarnDependenciesCount": 1871,
+  "yarnInstallSize": 340927966
 }
