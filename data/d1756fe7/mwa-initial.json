@@ -27,8 +27,8 @@
     }
   },
   "buildHotBootTime": 9337.78355833333,
-  "yarnColdInstallTime": 69092.00084600001,
-  "yarnHotInstallTime": 945.7217300000193,
+  "yarnColdInstallTime": 73337.476424,
+  "yarnHotInstallTime": 1007.9966149999527,
   "yarnDependenciesCount": 1508,
   "yarnInstallSize": 228835708
 }
