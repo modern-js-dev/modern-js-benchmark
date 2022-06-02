@@ -44,7 +44,7 @@
     "disableMinimize": false,
     "enableInlineStyles": false,
     "enableInlineScripts": false,
-    "disableSourceMap": false,
+    "disableSourceMap": true,
     "disableInlineRuntimeChunk": false,
     "disableAssetsCache": false,
     "enableLatestDecorators": false,
@@ -90,7 +90,8 @@
       "title": "Modern.js Benchmark",
       "favicon": "./src/favicon.ico",
       "assetPrefix": "https://modern.js.org/modern-js-benchmark/",
-      "htmlPath": "/"
+      "htmlPath": "/",
+      "disableSourceMap": true
     },
     "dev": {
       "proxy": {
