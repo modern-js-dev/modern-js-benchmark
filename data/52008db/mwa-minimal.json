@@ -1,0 +1,34 @@
+{
+  "devPluginSetupTime": 1317.181542666629,
+  "devPrepareTime": 298.80976333337213,
+  "devColdBootTime": 3805.6238663333156,
+  "devHotBootTime": 2708.1644533333215,
+  "buildPluginSetupTime": 1334.2497099999648,
+  "buildPrepareTime": 292.42738899992156,
+  "buildColdBootTime": 15008.317920333395,
+  "minifiedBundleSize": {
+    "total": 169508,
+    "files": {
+      "/html/main/index.html": 2317,
+      "/static/css/main.css": 2636,
+      "/static/js/348.js": 145399,
+      "/static/js/main.js": 17846,
+      "/static/js/runtime-main.js": 1310
+    }
+  },
+  "gzippedBundleSize": {
+    "total": 54872,
+    "files": {
+      "/html/main/index.html": 1212,
+      "/static/css/main.css": 905,
+      "/static/js/348.js": 46698,
+      "/static/js/main.js": 5332,
+      "/static/js/runtime-main.js": 725
+    }
+  },
+  "buildHotBootTime": 1154.0129523333162,
+  "yarnColdInstallTime": 112451.26246500015,
+  "yarnHotInstallTime": 1669.1801510001533,
+  "yarnDependenciesCount": 1497,
+  "yarnInstallSize": 213695255
+}
