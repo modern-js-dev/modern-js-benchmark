@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "https://modern.js.org/modern-js-benchmark/static/css/main.0c7d51da.css",
-    "main.js": "https://modern.js.org/modern-js-benchmark/static/js/main.78e88c24.js",
+    "main.js": "https://modern.js.org/modern-js-benchmark/static/js/main.ceae6723.js",
     "runtime-main.js": "https://modern.js.org/modern-js-benchmark/static/js/runtime-main.e0fbb25b.js",
-    "static/css/382.5b51ae41.css": "https://modern.js.org/modern-js-benchmark/static/css/382.5b51ae41.css",
-    "static/js/382.f9fa283d.js": "https://modern.js.org/modern-js-benchmark/static/js/382.f9fa283d.js",
+    "static/css/410.5b51ae41.css": "https://modern.js.org/modern-js-benchmark/static/css/410.5b51ae41.css",
+    "static/js/410.af78cdbd.js": "https://modern.js.org/modern-js-benchmark/static/js/410.af78cdbd.js",
     "favicon.ico": "https://modern.js.org/modern-js-benchmark/favicon.ico",
     "main/index.html": "https://modern.js.org/modern-js-benchmark/main/index.html"
   },
   "entrypoints": [
     "static/js/runtime-main.e0fbb25b.js",
-    "static/css/382.5b51ae41.css",
-    "static/js/382.f9fa283d.js",
+    "static/css/410.5b51ae41.css",
+    "static/js/410.af78cdbd.js",
     "static/css/main.0c7d51da.css",
-    "static/js/main.78e88c24.js"
+    "static/js/main.ceae6723.js"
   ]
 }
